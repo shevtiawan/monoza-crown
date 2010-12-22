@@ -14,8 +14,10 @@ Here is the list of some technology that i used to build this mini-website:
 <h3> Ajax with jquery on login process </h3>
 <h3> Font style replacement with javascript (cufon yui) </h3>
 <h3> I posted the codes on github.com/shevtiawan </h3>
+<a href="https://github.com/shevtiawan/monoza-crown">https://github.com/shevtiawan/monoza-crown</a>
 
-<p>All of the layout & user interface I designed by myself with Photoshop.
+<br />
+<p>All of the layout & user interface I designed by myself with Adobe Photoshop.
 All of the codes I wrote with Textmate on my lovely Macbook white.</p>
 
 </div>

@@ -10,6 +10,8 @@
 	<script src="<?= base_url()?>assets/javascript/Aller_400.font.js" type="text/javascript"></script>
 	<script type="text/javascript">
 		Cufon.replace('h1');
+		Cufon.replace('h3');
+		Cufon.replace('h4');
 	</script>
 	
 	<title>Monoza's crown will fit on me.</title>

@@ -80,6 +80,7 @@ body {
 	border: 1px solid #93D8A1;
 	padding:10px;
 	color:#333333;
+	display:none;
 }
 
 #wrap #footer {
@@ -314,3 +315,44 @@ h4 {
 .stream .message{
 	margin:0 0 10px 0;
 }
+
+#profile{
+	font-size:15px;
+	color:#444444;
+	margin:30px 0 30px 0;
+}
+
+table {
+	margin:0 0 20px 0;
+	color:#666666;
+	font-size:14px;
+}
+tr.odd {
+	background:#ffffff;
+}
+tr.even {
+	background:#dbf4db;
+}
+td {
+	padding: 5px 10px;
+}
+
+.fit {
+	height:34px;
+	border: 1px solid #D893A1;
+	background:#FBE6F2;
+	padding:10px;
+	color:#333333;
+	font-size:24px;
+	text-align:center;
+}
+/*
+.talk {
+	border: 1px solid #D893A1;
+	background:#FBE6F2;
+	padding:0px 20px 20px 20px;
+	width:240px;
+	float:left;
+	color:#333333;
+}
+*/
